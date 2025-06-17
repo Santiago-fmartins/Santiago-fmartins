@@ -13,7 +13,7 @@
     <img align="center" alt="PostgreSQL" src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img align="center" alt="Linux" src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div><br>
-Sou estudante de programação pelo IF, atualmente cursando o segundo ano.<br>
-Gosto de matemática e leitura ​<br>
+Sou estudante de programação pelo IF, atualmente cursando o terceiro ano.<br>
+Gosto de matemática e literatura ​<br>
 Não pode faltar o café ☕​<br>
 E-mail para contato: linuxsantiagofm@gmail.com<br>
